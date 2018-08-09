@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Archaeology News</string>
+    <string name="no_news">No Archaeology News</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Archaeology News Settings</string>
+
+    <string name="settings_sort_by_date">Sort by date</string>
+
+    <string name="settings_num_of_pages_key" translatable="false">page-size</string>
+    <string name="setting_num_of_pages_default" translatable="false">15</string>
+    <string name="settings_num_of_pages_label">Number of Articles to Show</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_relevant_label">Most Relevant</string>
+    <string name="settings_order_by_most_relevant_value" translatable="false">relevance</string>
+
+</resources>
