@@ -122,8 +122,8 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         // Append query parameter and its value.
         uriBuilder.appendQueryParameter("page-size", numOfPages);
         uriBuilder.appendQueryParameter("show-tags", "contributor");
-        uriBuilder.appendQueryParameter("orderby", orderBy);
-        uriBuilder.appendQueryParameter("api-key", "54341e52-22b9-4e7c-8b6b-04ce4da9ad5c");
+        uriBuilder.appendQueryParameter("order-by", orderBy);
+        uriBuilder.appendQueryParameter("api-key", "54341e52-****-****-****-04ce4da9ad5c");
 
         Log.i("MainActivity", "uri= " +uriBuilder);
 
