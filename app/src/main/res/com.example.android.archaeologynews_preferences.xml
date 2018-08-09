@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="page-size">2</string>
+    <string name="Number of articles">2</string>
+    <string name="order_by">oldest</string>
+</map>
